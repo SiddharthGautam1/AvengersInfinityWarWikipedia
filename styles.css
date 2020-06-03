@@ -1,0 +1,47 @@
+h1 {color: yellow;
+    background: green;
+    font-size: 50px;
+    text-align: center;
+}
+body {
+    background: black;
+}
+p {
+    color: red;
+    text-align: center;
+    font-size: 20px;
+}
+a {
+    color: white;
+    font-size: 20px;
+}
+.title {
+    text-align: left;
+    text-decoration: underline;
+    font-size: 20px;
+
+}
+li {
+    color: green;
+
+}
+a {
+    color: white;
+}
+.just {
+    text-align: left;
+    
+    color: green;
+
+}
+.yo {
+    text-align: left;
+    font-style: italic;
+    padding-left: 10px;
+    text-decoration: underline;
+
+}
+table {
+    color: hotpink;
+    font-size: 20px;
+}
